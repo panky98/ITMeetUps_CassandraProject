@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITMeetUps_WebAPI", "ITMeetUps_WebAPI\ITMeetUps_WebAPI.csproj", "{2AEFD678-80D7-4786-B45D-8327A78833A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer1", "DataLayer1\DataLayer1.csproj", "{446FBCFC-D2ED-4C64-B5CF-55E176C3AF46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AEFD678-80D7-4786-B45D-8327A78833A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AEFD678-80D7-4786-B45D-8327A78833A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AEFD678-80D7-4786-B45D-8327A78833A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AEFD678-80D7-4786-B45D-8327A78833A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{446FBCFC-D2ED-4C64-B5CF-55E176C3AF46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{446FBCFC-D2ED-4C64-B5CF-55E176C3AF46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{446FBCFC-D2ED-4C64-B5CF-55E176C3AF46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{446FBCFC-D2ED-4C64-B5CF-55E176C3AF46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BA3C653-D059-4744-8BEA-43B531720A09}
+	EndGlobalSection
+EndGlobal
